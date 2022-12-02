@@ -16,7 +16,8 @@
 <br />
 
 <H1 align="center">
-    This project is not maintained anymore and will not receive further updates.
+    This project is a fork from https://github.com/botfront/botfront <br>
+    The original project it is not maintained anymore and will not receive further updates.
 </H1>
 
 <p align="center">
